@@ -1,0 +1,2 @@
+# LegioBot
+Discord bot
